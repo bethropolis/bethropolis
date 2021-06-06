@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Suplike social website](https://github.com/bethropolis/suplike-social-website)
 
-- 🤝 I’m looking for help with [rockPaperScissorsjs](https://github.com/bethropolis/rockPaperScissorsjs)
+- 🤝 I’m looking for help with [Suplike social website](https://github.com/bethropolis/suplike-social-website)
 
 - 👨‍💻 All of my projects are available at [https://www.bethropolis.ga](https://www.bethropolis.ga)
 
