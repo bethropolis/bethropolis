@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [building a rock paper scissors game](https://dev.to/bethropolis/building-a-rock-paper-scissors-game-3a7f)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
