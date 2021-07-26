@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My journey making a social website](https://dev.to/bethropolis/my-journey-making-a-social-website-4pei)
 - [building a rock paper scissors game](https://dev.to/bethropolis/building-a-rock-paper-scissors-game-3a7f)
 <!-- BLOG-POST-LIST:END -->
 
