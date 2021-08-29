@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with [Suplike social website](https://github.com/bethropolis/suplike-social-website)
 
-- 👨‍💻 All of my projects are available at [https://www.bethropolis.ga](https://www.bethropolis.ga)
+- 👨‍💻 All of my projects are available at [https://bethropolis.github.io](https://bethropolis.github.io)
 
 - 💬 Ask me about **vue**
 
