@@ -3,20 +3,9 @@
 
 - 🔭 I’m currently working on [Suplike social website](https://github.com/bethropolis/suplike-social-website)
 
-- 🤝 I’m looking for help with [Suplike social website](https://github.com/bethropolis/suplike-social-website)
-
-- 👨‍💻 All of my projects are available at [https://bethropolis.github.io](https://bethropolis.github.io)
-
 - 💬 Ask me about **vue**
 
 - 📫 How to reach me **bethropolis@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [color drawer](https://dev.to/bethropolis/color-drawer-1ni2)
-- [My journey making a social website](https://dev.to/bethropolis/my-journey-making-a-social-website-4pei)
-- [building a rock paper scissors game](https://dev.to/bethropolis/building-a-rock-paper-scissors-game-3a7f)
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
