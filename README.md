@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 
 
-- 📙 currently learning: sveltekit
+- 📙 currently learning: astro
 
 
 <h3 align="left">Connect with me:</h3>
