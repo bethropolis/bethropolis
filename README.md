@@ -9,6 +9,3 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=bethropolis&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=bethropolis&icon=0&color=11)](https://visitcount.itsvg.in)
-
